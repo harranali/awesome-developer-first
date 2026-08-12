@@ -350,6 +350,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
+* [Image MIME Type Reference](https://freewebptojpg.com/mime/image) - Comprehensive developer index of 150+ image formats, magic bytes, and browser compatibility with a free JSON API.
 
 ## Monitoring
 *Monitoring your production application.*

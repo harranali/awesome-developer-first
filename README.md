@@ -343,6 +343,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Docusign](https://developers.docusign.com/) - APIs for eSignature, and Intelligent Agreement Management.
 * [Fernand](https://getfernand.com/) - API-first customer support for indie hackers and small SaaS teams.
 * [Frigade](https://frigade.com) - SDK for shipping an in-product AI assistant that learns your app and takes actions on the user's behalf (open modals, navigate, walk through workflows).
+* [Image MIME Type Reference](https://freewebptojpg.com/mime/image) - Comprehensive developer index of 150+ image formats, magic bytes, and browser compatibility with a free JSON API.
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
@@ -350,7 +351,6 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 * [Trophy](https://trophy.so) - APIs for gamified product experiences.
-* [Image MIME Type Reference](https://freewebptojpg.com/mime/image) - Comprehensive developer index of 150+ image formats, magic bytes, and browser compatibility with a free JSON API.
 
 ## Monitoring
 *Monitoring your production application.*
